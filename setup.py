@@ -34,7 +34,7 @@ setup(
     keywords='email imap spamassasin filter',
     author='ISBG contributors (see CONTRIBUTORS file)',
     author_email='isbg@python.org',
-    license='GPLv3',
+    license='GPL-3',
     packages=['isbg'],
     entry_points={
         'console_scripts': [
@@ -54,7 +54,7 @@ setup(
         'Development Status :: 5 - Production/Stable',
         'Environment :: Console',
         'Intended Audience :: System Administrators',
-        'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
+        'License :: OSI Approved :: GNU General Public License v3 (GPL-3)',
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
         'Topic :: Communications :: Email :: Post-Office :: IMAP',
